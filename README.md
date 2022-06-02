@@ -1,2 +1,2 @@
-# Number-System-Calculater
-Number system calculater in python
+# Number-System-Converter
+Number system converter in python
